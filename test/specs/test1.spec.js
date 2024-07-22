@@ -9,7 +9,7 @@ describe('Demo Test', function (){
         await browser.pause(2000)
         //await $('[type="submit"]').click()
         await browser.keys('Enter')
-        await browser.pause(3000) 
+        await browser.pause(2000) 
 
     })
 
